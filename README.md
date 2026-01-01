@@ -1,6 +1,6 @@
 # DocUnfold: Leveraging Unfolding Network and A Real-World Large-Scale Dataset for Handwriting Contamination Removal in Documents
 
-[Xuhang Chen](https://cxh.netlify.app/), Ziyang Zhou, Zimeng Li📮, Xiujun Zhang, Yihang Dong, Xiaofeng Zhang, Kim-Fung Tsang (📮Corresponding author)
+[Xuhang Chen](https://cxh.netlify.app/), Ziyang Zhou, Zimeng Li📮, Xiujun Zhang, Yihang Dong, Kim-Fung Tsang (📮Corresponding author)
 
 **Huizhou University, Shenzhen Polytechnic University, University of Macau, SIAT CAS**
 
